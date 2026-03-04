@@ -61,9 +61,6 @@ const Hero = () => {
           <a href="mailto:dirkmakkink31@gmail.com" className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-border text-foreground font-medium hover:bg-secondary transition-colors">
             <Mail className="w-4 h-4" /> Email
           </a>
-          <a href="#" className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-border text-foreground font-medium hover:bg-secondary transition-colors">
-            <Download className="w-4 h-4" /> Download CV
-          </a>
           <a href="https://wa.me/31617420814" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-border text-foreground font-medium hover:bg-secondary transition-colors">
             <MessageCircle className="w-4 h-4" /> WhatsApp
           </a>
